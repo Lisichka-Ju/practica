@@ -9,7 +9,7 @@ practica
 - Контрольные вопросы: основные составляющие web, опишите URI, напишите HTML для страницы из заголовка и абзаца текста, отличительные черты протокола HTTP
 ***
 >[Код к калькулятору](https://github.com/Lisichka-Ju/practica/tree/main/laba_1/calculator)  
->[Контрольные вопросы](https://github.com/Lisichka-Ju/practica/blob/main/laba_1/c_v_1)  
+>[Контрольные вопросы на гите](https://github.com/Lisichka-Ju/practica/blob/main/laba_1/c_v_1)  
 >[Ссылка на гугл диск с Лр 1](https://docs.google.com/document/d/1DlGRG0Inf5STZ9WcFQKX9zGPzgDnauub/edit)  
 ***
 ## Лабораторная работа 2
@@ -18,6 +18,7 @@ practica
 - Цель данной лабораторной работы - знакомство с инструментами построения пользовательских интерфейсов web-сайтов: HTML, CSS, JavaScript. В ходе выполнения работы, вам предстоит продолжить реализовывать простой калькулятора, и затем выполнить задания по варианту.
 - Контрольные вопросы: объясните, как связана кнопка = с кодом лабораторной; объясните от начала до конца, что проиходит при сложении двух чисел (что нажимает пользователь, что происходит в коде); напишите класс кнопки, которая выводит количество нажатий; напишите код поиска максимального элемента в массиве
 ***
->[Код к калькулятору](https://github.com/Lisichka-Ju/practica/tree/main/laba_2/calculator)  
->[Контрольные вопросы](https://github.com/Lisichka-Ju/practica/blob/main/laba_2/c_v_1)  
+>[Код к калькулятору](https://github.com/Lisichka-Ju/practica/tree/main/laba_2/calculator%20laba2)  
+>[Контрольные вопросы на гите](https://github.com/Lisichka-Ju/practica/blob/main/laba_2/c_v)  
 >[Ссылка на гугл диск с Лр 2](https://docs.google.com/document/d/1O_aWV6rSYEi16wdbfGLY6GvMcDrq5dmq/edit)  
+***
