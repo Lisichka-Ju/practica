@@ -20,5 +20,6 @@
 ***
 >[Код к калькулятору](https://github.com/Lisichka-Ju/practica/tree/main/laba_2/calculator%20laba2)  
 >[Контрольные вопросы на гите](https://github.com/Lisichka-Ju/practica/blob/main/laba_2/c_v)  
->[Ссылка на гугл диск с Лр 2](https://docs.google.com/document/d/1O_aWV6rSYEi16wdbfGLY6GvMcDrq5dmq/edit)  
+>[Ссылка на гугл диск с Лр 2](https://docs.google.com/document/d/1O_aWV6rSYEi16wdbfGLY6GvMcDrq5dmq/edit)
+>[Ссылка на мой web-калькулятор](https://lisichka-ju.github.io/Calc/index.html)
 ***
