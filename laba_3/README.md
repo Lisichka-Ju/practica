@@ -2,17 +2,17 @@
 ***
 ## 1.	опишите структуру вашего проекта
 ***
-LR3
-├── img/
-├── photo1.jpg
-├── photo2.jpg
-└── photo3.jpg
-├── node_modules/
-├── .gitignore
-├── index.html
-├── main.js
-├── package-lock.json
-└── package.json
+LR3  
+├── img/  
+├── photo1.jpg  
+├── photo2.jpg  
+└── photo3.jpg  
+├── node_modules/  
+├── .gitignore  
+├── index.html  
+├── main.js  
+├── package-lock.json  
+└── package.json  
 Пример пути для запуска:
 1. Открываете index.html в браузере.
 2. При переключении радио-кнопок меняется фотография
