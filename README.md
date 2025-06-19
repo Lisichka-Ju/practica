@@ -32,3 +32,15 @@
 >[Контрольные вопросы на гите](https://github.com/Lisichka-Ju/practica/blob/main/laba_3/README.md)  
 >[Ссылка на гугл диск с Лр 3](https://docs.google.com/document/d/1jMvUkAr2BVUFeS4oqygDHm9Aj3_Oo9XK/edit)
 ***
+## Лабораторная работа 3
+***
+## Лабораторная работа 4
+***
+## Лабораторная работа 5
+***
+## Лабораторная работа 6
+***
+## Дз 1
+***
+## Дз 2
+***
