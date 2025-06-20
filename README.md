@@ -39,7 +39,7 @@
 -	Контрольные вопросы: опишите структуру вашего проекта, что такое MVC, что такое роутинг, ключевые этапы рендера
 >[Верстка интерфейса с карточками. Тема - фотографии, Компонент - группа кнопок](https://github.com/Lisichka-Ju/practica/tree/main/laba_3)  
 >[Контрольные вопросы на гите](https://github.com/Lisichka-Ju/practica/blob/main/laba_3/README.md)  
->[Ссылка на гугл диск с Лр 3](https://docs.google.com/document/d/1jMvUkAr2BVUFeS4oqygDHm9Aj3_Oo9XK/edit)
+>[Ссылка на гугл диск с Лр 3](https://docs.google.com/document/d/1jMvUkAr2BVUFeS4oqygDHm9Aj3_Oo9XK/edit)  
 ***
 ## Лабораторная работа 4
 ***
