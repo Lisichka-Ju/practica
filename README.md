@@ -47,7 +47,7 @@
 - Контрольные вопросы: Что такое NodeJS, каковы его особенности и среда применения; клиент серверная модель, сравнение SSR и SPA; назовите несколько встроенных библиотек NodeJS и их предназначение; почему целесообразно применять высокоуровневые фреймворки при разработки API; перечислите основные сущности NestJS приложения и их предназначение; Injectable, что позволяет делать внедрение зависимостей в NestJs; какие особенности обработки ошибок в NestJS
 >[API на Node.js]()  
 >[Контрольные вопросы на гите](https://github.com/Lisichka-Ju/practica/blob/main/laba_4/README.md)  
->[Ссылка на гугл диск с Лр 4](https://docs.google.com/document/d/1KpxrSaY4JyMQCMCHC-ItLa6fxd1LLu2e/edit)  
+>[Ссылка на гугл диск с Лр 4](https://docs.google.com/document/d/124Jtxu9RaUDHlVb5MnNQdvoo0zgEyjne/edit)  
 ***
 ## Лабораторная работа 5
 ***
