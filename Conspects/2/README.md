@@ -232,9 +232,9 @@ o	Группировка: h1, h2 { color: red }
    <p id="id" class="class">Hello World!</p>
 </body>
 ```
-
+---
 # JavaScript
-
+---
 Пример JavaScript кода
 ```ts
 <!DOCTYPE HTML>
