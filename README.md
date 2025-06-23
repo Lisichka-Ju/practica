@@ -1,7 +1,7 @@
 # Практика
 
 ![images](https://github.com/user-attachments/assets/db54944e-a8c3-4c42-9ca8-ff7b5cd8b61d)
-![images (1)](https://github.com/user-attachments/assets/f9f83bd2-03e8-40a3-a26b-a088ebf1bfbd)
+![images (2)](https://github.com/user-attachments/assets/0b056064-f480-4dd3-823f-9f1402a263ef)
 ![images](https://github.com/user-attachments/assets/155676ea-f740-40be-bae0-d86d6b04a6f8)
 ![images (1)](https://github.com/user-attachments/assets/d7a63a1a-95f8-4aee-80a2-6094b2284626)
 
