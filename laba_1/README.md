@@ -1,6 +1,6 @@
 # Лабораторная работа 1
 ***
-# [Калькулятор](https://github.com/Lisichka-Ju/practica/tree/main/laba_1/calculator)  
+# [задание 1 - калькулятор](https://github.com/Lisichka-Ju/practica/tree/main/laba_1/calculator)  
 ***
 # Контрольные вопросы:
 ***
