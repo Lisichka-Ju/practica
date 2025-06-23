@@ -1,6 +1,6 @@
 # Контрольные Вопросы
 ***
-# [Задание 2 - продолжение калькулятора добавление js](https://github.com/Lisichka-Ju/practica/tree/main/laba_2/calculator%20laba2)
+# [Задание 2 - продолжение калькулятора + js](https://github.com/Lisichka-Ju/practica/tree/main/laba_2/calculator%20laba2)
 Я полностью изменила код из лабы 1 для того чтобы легче добавьть js
 ***
 ## 1. Объясните, как связана кнопка = с кодом лабораторной
