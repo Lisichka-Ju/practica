@@ -1,9 +1,7 @@
 # Практика
 
 ![images](https://github.com/user-attachments/assets/db54944e-a8c3-4c42-9ca8-ff7b5cd8b61d)
-
 ![images (1)](https://github.com/user-attachments/assets/f9f83bd2-03e8-40a3-a26b-a088ebf1bfbd)
-
 
 ***
 ## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
