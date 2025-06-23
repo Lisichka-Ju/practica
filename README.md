@@ -1,4 +1,5 @@
 # Практика
+## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
 ***
 ## Конспекты
 > [Лекция 1 - Конспект 1](https://github.com/Lisichka-Ju/practica/tree/main/Conspects/1)  
@@ -78,5 +79,5 @@
 > [Задание 2.2 (2 уровень)](https://github.com/Lisichka-Ju/practica/blob/main/Dz1/2-2.js)  
 > [Задание 3.8 (3 уровень)](https://github.com/Lisichka-Ju/practica/tree/main/Dz1/3-8)  
 > [Задание 9 (3,5 уровень)](https://github.com/Lisichka-Ju/practica/tree/main/Dz1/9)  
-> [Ссылка на гугл диск с Дз](https://docs.google.com/document/d/1I7E7fuZebgCXgpJpCx-oBSjJybIICdb8/edit)  
+> [Ссылка на гугл диск с Дз](https://docs.google.com/document/d/1I7E7fuZebgCXgpJpCx-oBSjJybIICdb8/edit)
 ***
