@@ -72,6 +72,7 @@
 > 3 уровень: ****3.8****
 > 3,5 уровень: ****9****
 ***
+> [Задания](https://github.com/Lisichka-Ju/practica/tree/main/Dz1)
 > [Задание 1.1 (1 уровень)](https://github.com/Lisichka-Ju/practica/blob/main/Dz1/1-1.js)  
 > [Задание 1.4 (1 уровень)](https://github.com/Lisichka-Ju/practica/blob/main/Dz1/1-4.js)  
 > [Задание 2.2 (2 уровень)](https://github.com/Lisichka-Ju/practica/blob/main/Dz1/2-2.js)  
