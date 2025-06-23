@@ -37,7 +37,7 @@ ________________________________________________________________________________
 	  <p>Абзац</p>
 	  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit odit omnis consectetur sunt maiores ipsam voluptas tempore pariatur hic illo vero ut quasi mollitia, facere nemo sapiente dolore! Blanditiis, at.</p>
 </body>
-</html>
+</html>  
 _____________________________________________________________________________________________________
 ## 4.	Отличительные черты протокола HTTP
 _____________________________________________________________________________________________________
