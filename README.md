@@ -3,7 +3,7 @@
 ![images](https://github.com/user-attachments/assets/db54944e-a8c3-4c42-9ca8-ff7b5cd8b61d)
 ![images (2)](https://github.com/user-attachments/assets/0b056064-f480-4dd3-823f-9f1402a263ef)
 ![images](https://github.com/user-attachments/assets/155676ea-f740-40be-bae0-d86d6b04a6f8)
-![IMG_0770_фрагмент](https://github.com/user-attachments/assets/9af478c3-9eed-4970-b27c-598bf0dd9345)
+![aneagle_rewqe47j](https://github.com/user-attachments/assets/0982976a-982e-4a5c-a87c-30a2cc7feb4e)
 
 ***
 ## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
