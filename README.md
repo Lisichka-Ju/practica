@@ -3,7 +3,6 @@
 ![images](https://github.com/user-attachments/assets/db54944e-a8c3-4c42-9ca8-ff7b5cd8b61d)
 ![images (2)](https://github.com/user-attachments/assets/0b056064-f480-4dd3-823f-9f1402a263ef)
 ![images](https://github.com/user-attachments/assets/155676ea-f740-40be-bae0-d86d6b04a6f8)
-![aneagle_rewqe47j](https://github.com/user-attachments/assets/3e817464-eda3-4348-b326-212e17413499)
 ![image_862804151414576580837](https://github.com/user-attachments/assets/e9223399-1bd3-414c-813d-caf0c8a22826)
 
 ***
