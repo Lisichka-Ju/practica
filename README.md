@@ -1,9 +1,7 @@
 # Практика
 
-![images](https://github.com/user-attachments/assets/db54944e-a8c3-4c42-9ca8-ff7b5cd8b61d)
-![images (2)](https://github.com/user-attachments/assets/0b056064-f480-4dd3-823f-9f1402a263ef)
-![images](https://github.com/user-attachments/assets/155676ea-f740-40be-bae0-d86d6b04a6f8)
-![image_862804151414576580837](https://github.com/user-attachments/assets/e9223399-1bd3-414c-813d-caf0c8a22826)
+![aneagle_rewqe47j](https://github.com/user-attachments/assets/313eb473-493c-4e70-ae14-b950f63ac211)
+![image_861510151545237391011](https://github.com/user-attachments/assets/2a6fd013-9f84-4261-961d-5837f644aae3)
 
 ***
 ## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
