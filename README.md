@@ -5,8 +5,6 @@
 ![images](https://github.com/user-attachments/assets/155676ea-f740-40be-bae0-d86d6b04a6f8)
 ![IMG_0770_фрагмент](https://github.com/user-attachments/assets/9af478c3-9eed-4970-b27c-598bf0dd9345)
 
-
-
 ***
 ## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
 ***
