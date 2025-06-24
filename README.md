@@ -1,7 +1,6 @@
 # Практика
 
-![aneagle_rewqe47j](https://github.com/user-attachments/assets/313eb473-493c-4e70-ae14-b950f63ac211)
-![image_861510151545237391011](https://github.com/user-attachments/assets/2a6fd013-9f84-4261-961d-5837f644aae3)
+![image_861607182149241889881](https://github.com/user-attachments/assets/f6c34e23-01d7-49d6-87a6-b0cba40d565a)
 
 ***
 ## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
