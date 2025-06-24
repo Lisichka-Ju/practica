@@ -3,8 +3,7 @@
 ![images](https://github.com/user-attachments/assets/db54944e-a8c3-4c42-9ca8-ff7b5cd8b61d)
 ![images (2)](https://github.com/user-attachments/assets/0b056064-f480-4dd3-823f-9f1402a263ef)
 ![images](https://github.com/user-attachments/assets/155676ea-f740-40be-bae0-d86d6b04a6f8)
-![image_862303231151133663320](https://github.com/user-attachments/assets/5ec918cc-21aa-41ea-9b56-9420e6439e26)
-
+![vgif-ru-25345](https://github.com/user-attachments/assets/eaec7d8e-457b-4b2f-bcac-300d80a82da0)
 
 
 Помогите голубю выбрать
