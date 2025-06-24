@@ -1,6 +1,8 @@
-# Практика
+# Практика![1551704459131325830](https://github.com/user-attachments/assets/85b46144-5df6-4e20-804d-6c9bd8a1ac23)
+
 
 ![image_861607182149241889881](https://github.com/user-attachments/assets/f6c34e23-01d7-49d6-87a6-b0cba40d565a)
+![1551704459131325830](https://github.com/user-attachments/assets/33d050b5-f409-4893-8c08-127755a43312)
 
 ***
 ## [Ссылка на гугл диск с заданиями](https://drive.google.com/drive/folders/1fj5Gsqq2CjhLDjeSMvw-VAjeml4il38Q)
