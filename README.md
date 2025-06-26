@@ -87,5 +87,5 @@
 > [Ссылка на гугл диск с Дз](https://docs.google.com/document/d/1I7E7fuZebgCXgpJpCx-oBSjJybIICdb8/edit)  
 ***
 <div align="center">
-  ![1551704459131325830](https://github.com/user-attachments/assets/1f180427-21ca-49ba-8709-a061c1715779)
+  <img src="![1551704459131325830](https://github.com/user-attachments/assets/b6769825-a404-45d7-a77b-e274d1edf261)" alt="Описание GIF">
 </div>
