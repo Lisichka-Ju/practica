@@ -86,3 +86,4 @@
 > [Задание 9 (3,5 уровень)](https://github.com/Lisichka-Ju/practica/tree/main/Dz1/9)  
 > [Ссылка на гугл диск с Дз](https://docs.google.com/document/d/1I7E7fuZebgCXgpJpCx-oBSjJybIICdb8/edit)  
 ***
+![1551704459131325830](https://github.com/user-attachments/assets/819886f7-9f31-46f6-a08c-93bd7a68bcf6)
