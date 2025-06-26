@@ -86,6 +86,4 @@
 > [Задание 9 (3,5 уровень)](https://github.com/Lisichka-Ju/practica/tree/main/Dz1/9)  
 > [Ссылка на гугл диск с Дз](https://docs.google.com/document/d/1I7E7fuZebgCXgpJpCx-oBSjJybIICdb8/edit)  
 ***
-<div align="center">
-  <img src="![1551704459131325830](https://github.com/user-attachments/assets/b6769825-a404-45d7-a77b-e274d1edf261)" alt="Описание GIF">
-</div>
+![1551704459131325830](https://github.com/user-attachments/assets/151aaf7d-87b9-43d2-926b-785cc010545b)
